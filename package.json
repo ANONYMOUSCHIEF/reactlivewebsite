@@ -1,6 +1,10 @@
 {
+<<<<<<< Updated upstream
   "homepage": "https://ANONYMOUSCHIEF.github.io/reactlivewebsite",
+=======
+>>>>>>> Stashed changes
   "name": "texttutiles",
+  "homepage": "https://ANONYMOUSCHIEF.github.io/reactlivewebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

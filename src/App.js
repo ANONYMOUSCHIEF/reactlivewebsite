@@ -53,9 +53,9 @@ function App() {
       <Navbar mode={mode} handleDark={handleModeDark} />
         <Alert data={alert} mode={mode} />
         <Routes>
-        <Route  exact path="/ABOUT"element={<About mode={mode}/>}>
+        <Route  exact path="/about"element={<About mode={mode}/>}>
           </Route>
-        <Route exact path="/MERN" 
+        <Route exact path="/reactlivewebsite" 
           element={< Textform showAlert={showAlert} heading="Enter the text to analyse" mode={mode} />}>
         </Route>
          < Route path="*"
